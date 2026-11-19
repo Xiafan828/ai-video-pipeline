@@ -1,5 +1,12 @@
 # AI Video Pipeline
 
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.12%2Bcu130-EE4C2C)
+![CUDA](https://img.shields.io/badge/CUDA-13.0-76B900)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-0.42-2A9D8F)
+![VRAM](https://img.shields.io/badge/VRAM-16%20GB%20RTX%205070%20Ti-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 本地 ComfyUI 上的 AI 视频生产管线：从静态人物图出发，产出**数字人唱歌/口播视频**与**音乐 MV**。
 
 > 全部在单机 RTX 5070 Ti（16 GB 显存）/ 31 GB 内存上跑通，无云服务。
